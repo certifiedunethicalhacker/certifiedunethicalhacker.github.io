@@ -1,4 +1,4 @@
 CCUHC
 =====
 
-[certifiedunethicalhacker.org](https://certifiedunethicalhacker.org)
+[certifiedunethicalhacker.club](https://certifiedunethicalhacker.club)
