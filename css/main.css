@@ -5,6 +5,10 @@ body {
 	font-size: 15;
 }
 
+.sickvidz{
+	text-align: left;
+}
+
 a:link {
 	color: white;
        	text-decoration: underline;
